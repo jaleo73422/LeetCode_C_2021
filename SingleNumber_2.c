@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 // bitwise XOR
 // 1) A^A => 0
 // 2) A^0 => A
